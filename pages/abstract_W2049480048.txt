@@ -1,0 +1,1 @@
+Abull is the (self-complementary) graph with verticesa, b, c, d, e and edgesab, ac, bc, bd, ce; a graphG is calledBerge if neitherG not its complement contains a chordless cycle whose length is odd and at least five. We prove that bull-free Berge graphs are perfect; a part of our argument relies on a new property of minimal imperfect graphs.

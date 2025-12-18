@@ -1,0 +1,1 @@
+A novel time-domain ultra-fast pulse shaping approachfor multi-TBaud serial optical communication signal (e.g. QPSK and 16-QAM)generation based on the first-order Born approximation in feasible all-fiberlong-period gratings is proposed and numerically demonstrated.

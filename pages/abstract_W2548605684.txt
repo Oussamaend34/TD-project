@@ -1,0 +1,1 @@
+The role of smart electric substation in smart cities becomes more important compared with the traditional one. Some benefits of smart substation and the concept of a decentralized control with an example of simulation are presented in this paper.

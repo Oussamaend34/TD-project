@@ -1,0 +1,1 @@
+This chapter introduces the transliteration scheme used to represent Arabic characters in this book. The scheme is a one-to-one transliteration of the Arabic script that is complete, easy to read, and consistent with Arabic computer encodings. We present guidelines for Arabic pronunciation using this transliteration scheme and discuss various idiosyncrasies of Arabic orthography

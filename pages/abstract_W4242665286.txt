@@ -1,0 +1,1 @@
+Bayesian Networks: With Examples in R, Second Edition introduces Bayesian networks using a hands-on approach. Simple yet meaningful examples illustrate each

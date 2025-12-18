@@ -1,0 +1,1 @@
+Many results have been obtained on isolated graphs and complete graphs. In this paper, a necessary and sufficient condition will be proved for a single valued neutrosophic graph to be an isolated single valued neutrosophic graph.

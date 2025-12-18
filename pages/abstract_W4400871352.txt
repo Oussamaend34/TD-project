@@ -1,0 +1,1 @@
+This study explores the foundational iterative processes of fractional calculus, focusing on Θ -conformable fractional derivatives ( Θ -CFD). We introduce novel fractional operators and define their associated function spaces. Additionally, we establish a series of theorems that enhance our understanding of these operators within the context of fractional calculus.

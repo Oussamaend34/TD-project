@@ -1,0 +1,1 @@
+Abstract: This main purpose of this paper is to develop an algorithm to find the shortest path on a network in which the weights of the edges are represented by bipolar neutrosophic numbers. Finally, a numerical example has been provided for illustrating the proposed approach.

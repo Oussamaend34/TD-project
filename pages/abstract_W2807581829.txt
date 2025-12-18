@@ -1,0 +1,1 @@
+In this paper, a fractional order SIR epidemic model with nonlinear incidence rate is presented and analyzed. First, we prove the global existence, positivity, and boundedness of solutions. The equilibria are calculated and their stability is investigated. Finally, numerical simulations are presented to illustrate our theoretical results.
